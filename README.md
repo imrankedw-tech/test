@@ -5,14 +5,22 @@
 - Timeline 
 	
 	Below are one of most important services launched yearwise. 
-        2008 Amazon Elastic Block Storage
-        2009 AWS Management Console
-        2010 Amazon SNS
-        2010 AWS Identity and Access Management
-        2010 Amazon Route 53
-        2011 AWS Elastic Beanstalk
-        2011 AWS CloudFormation
-        2012 Dynamo DB
+        
+	2008 Amazon Elastic Block Storage
+        
+	2009 AWS Management Console
+        
+	2010 Amazon SNS
+        
+	2010 AWS Identity and Access Management
+        
+	2010 Amazon Route 53
+        
+	2011 AWS Elastic Beanstalk
+        
+	2011 AWS CloudFormation
+        
+	2012 Dynamo DB
 
 - Regions
 - AZ
