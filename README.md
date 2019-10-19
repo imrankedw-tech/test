@@ -69,7 +69,6 @@
 		Monitor events (CPU / memory / diskspace), using cloud watch notifications
 		Prepare for failover by using elastic ip (For automated solution we can use EC2 autoscaling)
 		Periodically test recovering of instance or EBS Volumes from existing backups
-[S3 Notes](s3.txt)
 #### Introduction
 #### Serverless
 #### Bucket Operations
