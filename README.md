@@ -70,9 +70,15 @@
 		Prepare for failover by using elastic ip (For automated solution we can use EC2 autoscaling)
 		Periodically test recovering of instance or EBS Volumes from existing backups
 [S3 Notes](s3.txt)
-#### Creating, Deleting, Encryption of buckets
-#### S3 Objects Operations CLI & API 
-#### Storage Class, Object Life Cycle
+#### Introduction
+#### Serverless
+#### Bucket Operations
+#### Bucket Security config & other configs 
+#### Metadata, Storage Class, Versioning, LifeCycle Management & Cors Config.
+#### Object Operations (upload via. CLI & Python boto3 API) 
+#### Limitations
+#### S3 and its integration with other services (Lambda + SQS)
+
 
 ## Amazon Redshift 
 #### Introduction & High level Architecture
