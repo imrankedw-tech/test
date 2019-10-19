@@ -1,4 +1,4 @@
-## Amazon EC2 & S3
+## Introduction to AWS Services
 
 #### AWS Introduction, Commonly used services & high level Security concepts 
 - What is ? 
@@ -26,6 +26,8 @@
 - AZ
 - EndPoint
 - ARN		
+
+## Amazon EC2 & S3
 
 #### Introduction to EC2 & S3
 - Instances
@@ -67,7 +69,7 @@
 		Monitor events (CPU / memory / diskspace), using cloud watch notifications
 		Prepare for failover by using elastic ip (For automated solution we can use EC2 autoscaling)
 		Periodically test recovering of instance or EBS Volumes from existing backups
-
+[S3 Notes](s3.txt)
 #### Creating, Deleting, Encryption of buckets
 #### S3 Objects Operations CLI & API 
 #### Storage Class, Object Life Cycle
