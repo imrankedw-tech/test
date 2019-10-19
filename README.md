@@ -84,7 +84,7 @@
 #### Creating a Cluster  & Connecting to Database
 #### DDL, DML, DCL Operations
 #### Table design techniques
-#### Loading data 
+#### Loading data + ELT (Difference between etl and elt)
 #### Managing Cluster
 #### Redshift Spectrum
 #### Redshift + Python + UDF's
