@@ -1,0 +1,8 @@
+- What is ?
+	Features, Logical & Physical Architecture, Editions, Connectivity, Pricing & Tradeoff's
+- Further Concepts
+	Difference between Redshift & Snowflake, Warehouses + Pricing, Creating tables, Loading data
+- How data is stored
+	Storage, Clustering & Views
+- Data Pipelines & Tasks (ELT)
+	SnowSQL, Staging, SnowPipe & Tasks
